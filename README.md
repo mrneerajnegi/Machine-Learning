@@ -1,3 +1,3 @@
 # Machine-Learning
 
-This will complete playlist of machine learning codee
+This will contain complete playlist of machine learning codee
