@@ -1,2 +1,2 @@
-#Read me
+# Numpy
 This will contain code realted to numpy
